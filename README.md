@@ -5,9 +5,9 @@ Watersorts game coded in java using generic arrays and stacks.
 1. Have Java installed on the computer.
 2. Open CMD in the folder directory of the game files.
 3. Type in CMD: javac MyArrayList.java
-                javac StackAsMyArrayList.java
-                javac WaterSort.java
-                java WaterSort
+javac StackAsMyArrayList.java
+javac WaterSort.java
+java WaterSort
 4. Application should run
 
 ## How to play the game
